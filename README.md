@@ -377,9 +377,11 @@ For support, email: ahishek0111@gmail.com or contact through linkedin: linkedin.
 <div align="center">
 
 ### 🌟 Star this repository if you found it helpful!
+### 🌟 Star this repository if you found it helpful!
 
 [![GitHub stars](https://img.shields.io/github/stars/Abhishek01112002/DocAI_gfit?style=social)](https://github.com/Abhishek01112002/DocAI_gfit/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Abhishek01112002/DocAI_gfit?style=social)](https://github.com/Abhishek01112002/DocAI_gfit/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Abhishek01112002/DocAI_gfit)](https://github.com/Abhishek01112002e/DocAI_gfit/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Abhishek01112002/DocAI_gfit)](https://github.com/Abhishek01112002/DocAI_gfit/issues)
+
 
 </div>
