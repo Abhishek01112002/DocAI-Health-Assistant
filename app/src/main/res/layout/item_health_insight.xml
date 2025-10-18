@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/card_blue"
+    android:padding="16dp"
+    android:layout_margin="8dp">
+
+    <ImageView
+        android:id="@+id/insightIcon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/insightValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7h 15m"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#1976D2"
+        android:layout_gravity="center"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/insightTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sleep"
+        android:textSize="12sp"
+        android:textColor="#666666"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/insightSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last updated: 2 min ago"
+        android:textSize="10sp"
+        android:textColor="#999999"
+        android:layout_gravity="center"
+        android:layout_marginTop="4dp"
+        android:visibility="gone" />
+
+</LinearLayout>

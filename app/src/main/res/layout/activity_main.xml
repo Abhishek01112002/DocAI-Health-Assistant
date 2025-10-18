@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DoCAI Health App"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp"
+        android:textColor="@color/primary_color" />
+
+    <Button
+        android:id="@+id/btnConnectGoogleFit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect to Google Fit"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/primary_color"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fetch Health Data:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnFetchSteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch Steps"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnFetchHeartRate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch Heart Rate"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnFetchCalories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch Calories"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnFetchDistance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch Distance"
+        android:layout_marginBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnFetchAllData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fetch All Health Data"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/accent_color"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
