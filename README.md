@@ -368,15 +368,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or join our [Discord community](https://discord.gg/your-discord).
-
+For support, email: ahishek0111@gmail.com or contact through linkedin: linkedin.com/in/abhishek-kumar-yadav-b68a72281 
 ---
 
-## 🏆 Awards & Recognition
-
-- **🥇 Winner** - National Hackathon 2025
-- **🏅 Best AI Integration** - Healthcare Innovation Award
-- **⭐ Featured** - Google Developer Community
 
 ---
 
@@ -384,8 +378,8 @@ For support, email your-email@example.com or join our [Discord community](https:
 
 ### 🌟 Star this repository if you found it helpful!
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/DocAI_gfit?style=social)](https://github.com/yourusername/DocAI_gfit/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/DocAI_gfit?style=social)](https://github.com/yourusername/DocAI_gfit/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/DocAI_gfit)](https://github.com/yourusername/DocAI_gfit/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Abhishek01112002/DocAI_gfit?style=social)](https://github.com/Abhishek01112002/DocAI_gfit/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Abhishek01112002/DocAI_gfit?style=social)](https://github.com/Abhishek01112002/DocAI_gfit/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Abhishek01112002/DocAI_gfit)](https://github.com/Abhishek01112002e/DocAI_gfit/issues)
 
 </div>
